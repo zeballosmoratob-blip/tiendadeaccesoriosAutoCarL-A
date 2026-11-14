@@ -1,0 +1,16 @@
+PROYECTO WEB: AUTO CAR L&A
+====================================
+Abre esta carpeta directamente en Visual Studio Code.
+
+Estructura de archivos:
+- index.html  (Estructura principal)
+- styles.css  (Estilos personalizados)
+- script.js   (Lógica del carrito, QR y WhatsApp)
+- img/        (Guarda aquí tus fotos reales con estos nombres:)
+    * portada.jpg
+    * parrilla-aluminio.jpg
+    * parrilla-hechiza.jpg
+    * forro-universal.jpg
+    * forro-rush.jpg
+    * forro-volante.jpg
+    * qr.png  <-- Tu imagen de código QR

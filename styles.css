@@ -1,0 +1,19 @@
+/* Estilos personalizados Auto Car L&A */
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Barra de desplazamiento personalizada */
+::-webkit-scrollbar {
+    width: 8px;
+}
+::-webkit-scrollbar-track {
+    background: #0f172a;
+}
+::-webkit-scrollbar-thumb {
+    background: #334155;
+    border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #e11d48;
+}
